@@ -7,7 +7,7 @@ Copyright (c) 2007-2018 Carnegie Mellon University. All Rights Reserved. See the
 
 $ sudo apt-get install docker.io
 
-$ git clone https://github.com/cpuu/afl-fuzzing-training.git
+$ git clone https://github.com/cpuu/SCALe.git
 
 
 ## Support
